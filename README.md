@@ -44,7 +44,7 @@ Projeyi İndirin:
 
 Projeyi GitHub'dan klonlayın veya ZIP olarak indirin.
 
-git clone https://github.com/sizin-kullanici-adiniz/LibraryManagementSystem.git
+git clone https://github.com/cansugunduzalp/LibraryManagementSystem.git
 Proje Dizinine Gidin:
 
 cd LibraryManagementSystem
